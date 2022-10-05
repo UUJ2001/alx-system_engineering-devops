@@ -2,4 +2,4 @@
 
 path='readlink -f "$0"'
 
-echo $pat
+echo $path
